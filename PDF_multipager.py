@@ -27,3 +27,4 @@ for doc, pages in files.items():
     )
     
 print("Готово.")
+#i love linux.
